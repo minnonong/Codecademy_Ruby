@@ -1,6 +1,6 @@
-#  01_2
-
-my_num = 20
+#  01_2 Data Types
+ 
+my_num = 25
 
 my_boolean = true
 
